@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://contabilbonifacio.com.br/sitemap.xml
